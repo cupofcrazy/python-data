@@ -1,4 +1,6 @@
-# python-data
-Data Analysis with Python
+# Python Projects
+1) Q&A Fav
+2) ...
 
-Learning Python data analysis. This project is made to update my progress.
+
+Learning Python through Object-Oriented Programming. This project is made to update my progress in learning python.
